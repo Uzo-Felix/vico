@@ -1,4 +1,4 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-vicotrusttrd.com	TRUE	/	FALSE	1999999999	ci_session	bea8eb24f0453abc755a7c66ec828460e0f4a482
+vicotrust.netlify.app	TRUE	/	FALSE	1999999999	ci_session	bea8eb24f0453abc755a7c66ec828460e0f4a482
 
